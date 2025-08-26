@@ -1,4 +1,4 @@
-# 📇 Contacts App - MERN Stack Contact Manager
+# 📇 Contacts App - MEAN Stack Contact Manager
 
 ![Node.js](https://img.shields.io/badge/Node.js-Express-informational)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
