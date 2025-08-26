@@ -44,7 +44,7 @@ ContactsApp/
 ├── middleware/
 ├── config/
 │   └── db.js
-├── .env.example
+├── .env
 ├── Dockerfile
 ├── package.json
 └── README.md
