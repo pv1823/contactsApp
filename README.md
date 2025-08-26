@@ -67,7 +67,7 @@ ContactsApp/
 npm install
 
 # Create .env file from template
-cp .env.example .env
+cp .env .env
 
 # Start backend server
 node server.js
